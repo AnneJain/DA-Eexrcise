@@ -14,7 +14,7 @@ Several constraints were placed on the selection of these instances from a large
 
 ## 三、技術與方法
 
-- 使用 Python 及 scikit-learn 套件  
+- 使用 Python 及 GridSearchCV 套件  
 - 資料分割：訓練集66%、測試集34% 
 - 模型：KNN模型  
 - 評估指標：準確率 (Accuracy)、混淆矩陣 (Confusion Matrix)、ROC 曲線及 AUC
