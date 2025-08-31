@@ -29,7 +29,7 @@ Several constraints were placed on the selection of these instances from a large
 
 ## 五、成果展示
 
-- 模型準確率達到約 77.2x%（實際數字填入）  
+- 模型準確率達到約 77.2%（實際數字填入）  
 - AUC 指標為 0.819（實際數字填入）  
 - 分析顯示 BMI 與血糖濃度為重要特徵
 
