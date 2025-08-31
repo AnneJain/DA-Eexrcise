@@ -23,7 +23,7 @@
 - 工具：Python, Matplotlib, EDM
 - 技能：缺失值處理、模型應用、資料分群
 
-[查看專案 ➜](./01_ComputerVision_AI_Medical)
+[查看專案 ➜](https://github.com/AnneJain/DA-Eexrcise/tree/main/%E7%B3%96%E5%B0%BF%E7%97%85%E9%A0%90%E6%B8%AC%E6%A8%A1%E5%9E%8B)
 
 ---
 
