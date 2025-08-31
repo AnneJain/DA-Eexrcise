@@ -20,7 +20,7 @@
 
 ### 1. 糖尿病預測模型 (Pima Indians Diabetes Database)
 - 任務：使用 KNN 模型預測糖尿病發生率
-- 工具：Python, Matplotlib, EDM
+- 工具：Python, Matplotlib
 - 技能：缺失值處理、模型應用、資料分群
 
 [查看專案 ➜](https://github.com/AnneJain/DA-Eexrcise/tree/main/%E7%B3%96%E5%B0%BF%E7%97%85%E9%A0%90%E6%B8%AC%E6%A8%A1%E5%9E%8B)
