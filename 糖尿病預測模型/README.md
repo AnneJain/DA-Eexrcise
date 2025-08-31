@@ -32,3 +32,6 @@ Several constraints were placed on the selection of these instances from a large
 - 模型準確率達到約 77.2x%（實際數字填入）  
 - AUC 指標為 0.819（實際數字填入）  
 - 分析顯示 BMI 與血糖濃度為重要特徵
+
+## 六、參考
+https://www.kaggle.com/code/raja75/starter-pima-indians-diabetes-database-e1f30fb2-d
