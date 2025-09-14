@@ -15,6 +15,7 @@
 | 編號 | 專案名稱                     | 技術重點           |  簡介                        | 資料來源                             |
 |------|-----------------------------|--------------------|---------------------------------|---------------------------------|
 | 01   | 糖尿病預測模型               | KNN、分類指標、模型驗證 | Predict the onset of diabetes based on diagnostic measures    | [糖尿病預測模型](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  |
+| 02   | 電信用戶分析                 | 多模型預測找出最適、隱藏缺失值處理 | Predict behavior to retain customers.    | [電信用戶分析](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)  |
 
 
 
@@ -28,10 +29,11 @@
 ---
 
 ### 2. 電信用戶分析（Telecom Customer Analytics）
-- 任務：
-- 技能：
+- 任務：預測客戶可能流失的因素,並使用多個模型預測結果,找出最適模型。
+- 技能：隱形缺失值處理、模型商業應用
 
-[查看專案 ➜](./02_Predictive_Maintenance)
+[查看專案 ➜](https://github.com/AnneJain/DA-Eexrcise/tree/main/%E9%9B%BB%E4%BF%A1%E7%94%A8%E6%88%B6%E5%88%86%E6%9E%90)
+
 
 ---
 
