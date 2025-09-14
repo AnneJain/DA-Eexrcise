@@ -8,28 +8,27 @@ Predict behavior to retain customers. You can analyze all relevant customer data
 
 - 資料來源：[Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
 - 資料內容： 7043 customers and 21 features  
-- 資料前處理：
+- 資料前處理：缺失值處理、特徵標準化
 
 ## 三、技術與方法
 
 - 使用 Python  套件  
-- 資料分割： 
-- 模型： 
-- 評估指標：
+- 資料分割： 測試集30%，訓練集70%
+- 模型：KNN,SVC,隨機森林,邏輯迴歸,決策樹,Ado Boost,Voting Classifier
+- 評估指標：混淆矩陣 (Confusion Matrix)、ROC 曲線
 
 ## 四、主要步驟
 
-1. 讀取資料並初步探索  
+1. 讀取資料並了解資料型態  
 2. 缺失值處理及資料標準化  
-3. 建立  模型並訓練  
-4. 預測測試集並計算評估指標  
-5. 模型調整與驗證
+3. 資料視覺化  
+4. 建立模型並訓練 
 
 ## 五、成果展示
 
-- 模型準確率達到  
-- AUC 指標為）  
-- 分析顯示
+- 資料分析(EDA)  
+- 模型評估指標  
+- 分析顯示:綜合 Recall 和 F1-score結果,邏輯迴歸方法較符合實際情況,但隨機森林模型的準確率較高。
 
 ## 六、參考
-
+https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction/notebook
